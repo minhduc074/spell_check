@@ -1,0 +1,12 @@
+--Tree info
++ Number of nodes: 88741
++ Size of each node: 4
++ Max keys in each node: 8
++ Min keys in each node: 3
++ Average fulfill (%): 40.0022
++ Number of leaf-nodes: 70996
++ Height of tree: 8
+--Spelling result 
+go: R 1 2 3 4 1 0 3 2 
+to: R 3 4 3 4 4 4 2 3 
+school: R 3 2 0 2 0 1 3 3 
